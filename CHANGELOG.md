@@ -1,3 +1,6 @@
+## 2.3.2
+* Something new
+
 ## 2.3.0
 * API 3.5.1
 * Packages update
